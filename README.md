@@ -1,13 +1,13 @@
-# SillyHacks
+# SillyHacks: Innovation Through Play 🎨
 
-A collection of fun, unconventional, or "silly" tech projects created during various hackathons or as creative experiments.
+A collection of non-serious, quirky, and "silly" tech projects built during hackathons or as creative exercises to explore new technologies in a low-stakes environment.
 
-## Highlights
+## Philosophy
 
-- **Over-engineered Solutions**: Solving simple problems using unnecessarily complex technologies.
-- **Niche Utilities**: One-purpose tools that solve quirky problems.
-- **Visual Experiments**: Fun UI/UX hacks and animations.
+"If it's stupid but it works, it's NOT stupid." This repo is dedicated to over-engineering, niche problem solving, and visual fun.
 
-## Ethos
+## Notable Projects
 
-Innovation through play and experimentation!
+- One-purpose utilities.
+- Fun UI/UX animations.
+- Quirky Slack/Discord bots.
